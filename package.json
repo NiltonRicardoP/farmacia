@@ -63,7 +63,7 @@
     "acorn": "^8.8.1",
     "apexcharts": "^3.36.3",
     "chart.js": "^3.9.1",
-    "css-loader": "^6.5.1",
+    "css-loader": "^6.7.3",
     "currency.js": "^2.0.4",
     "dayjs": "^1.11.5",
     "jspdf": "^2.1.1",
