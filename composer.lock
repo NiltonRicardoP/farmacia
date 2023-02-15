@@ -2050,16 +2050,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v9.51.0",
+            "version": "v9.52.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "b81123134349a013a738a9f7f715c6ce99d5a414"
+                "reference": "eb85cd9d72e5bfa54b4d0d9040786f26d6184a9e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/b81123134349a013a738a9f7f715c6ce99d5a414",
-                "reference": "b81123134349a013a738a9f7f715c6ce99d5a414",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/eb85cd9d72e5bfa54b4d0d9040786f26d6184a9e",
+                "reference": "eb85cd9d72e5bfa54b4d0d9040786f26d6184a9e",
                 "shasum": ""
             },
             "require": {
@@ -2244,7 +2244,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2023-02-07T15:37:18+00:00"
+            "time": "2023-02-14T14:51:14+00:00"
         },
         {
             "name": "laravel/sanctum",
@@ -2510,27 +2510,27 @@
         },
         {
             "name": "laravie/parser",
-            "version": "v2.2.0",
+            "version": "v2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravie/parser.git",
-                "reference": "b47d617f294059fe6edd13ed337e3d79554f9b8b"
+                "reference": "11bcf705da402527c49b9bebdf68dec3e04d057f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravie/parser/zipball/b47d617f294059fe6edd13ed337e3d79554f9b8b",
-                "reference": "b47d617f294059fe6edd13ed337e3d79554f9b8b",
+                "url": "https://api.github.com/repos/laravie/parser/zipball/11bcf705da402527c49b9bebdf68dec3e04d057f",
+                "reference": "11bcf705da402527c49b9bebdf68dec3e04d057f",
                 "shasum": ""
             },
             "require": {
                 "ext-simplexml": "*",
-                "illuminate/collections": "^8.0 || ^9.0",
+                "illuminate/collections": "^8.0 || ^9.0 || ^10.0",
                 "php": "^7.3 || ^8.0"
             },
             "require-dev": {
                 "mockery/mockery": "^1.4.2",
-                "phpstan/phpstan": "^1.0",
-                "phpunit/phpunit": "^8.4 || ^9.3.3"
+                "phpstan/phpstan": "^1.9.14",
+                "phpunit/phpunit": "^9.5.10"
             },
             "type": "library",
             "extra": {
@@ -2563,7 +2563,7 @@
                 "xml"
             ],
             "support": {
-                "source": "https://github.com/laravie/parser/tree/v2.2.0"
+                "source": "https://github.com/laravie/parser/tree/v2.3.0"
             },
             "funding": [
                 {
@@ -2575,7 +2575,7 @@
                     "type": "liberapay"
                 }
             ],
-            "time": "2022-11-17T12:46:12+00:00"
+            "time": "2023-02-14T10:32:44+00:00"
         },
         {
             "name": "league/commonmark",
